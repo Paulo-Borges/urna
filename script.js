@@ -19,7 +19,7 @@ function comecarEtapa() {
     votoBranco = false;
 
 /* Loop dos numeros */
-    for(let i=0;i<etapa.numeros;i++) {
+    for(let i=0; i<etapa.numeros; i++) {
         if(i === 0)  {
             numeroHtml += '<div class="numero pisca"></div>';   
          } else {

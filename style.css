@@ -12,6 +12,7 @@ body {
 }
 .urna {
     background-color: #dbd5c9;
+    margin-top: 100px;
     padding: 30px;
     display: flex;
 }
@@ -29,6 +30,7 @@ body {
 }
 .teclado--linha {
     display: flex;
+    border-radius: 6px;
     justify-content: center;
     align-items: flex-end;
 }
